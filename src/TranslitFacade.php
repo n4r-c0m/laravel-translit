@@ -1,10 +1,10 @@
-<?php namespace Alexusmai\Ruslug;
+<?php namespace diadus\Translit;
 
 use Illuminate\Support\Facades\Facade;
 
-class RuslugFacade extends Facade{
+class TranslitFacade extends Facade{
 
     protected static function getFacadeAccessor(){
-        return 'slug';
+        return 'translit';
     }
 }

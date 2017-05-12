@@ -1,19 +1,19 @@
 {
-    "name": "alexusmai/ruslug",
-    "description": "Laravel 5 RuSlug, Transliteration RU -> ENG",
+    "name": "diadus/laravel-translit",
+    "description": "Laravel 5 Transliteration RU -> ENG",
     "keywords": [
         "laravel 5",
-        "slug",
+        "translit",
         "ru"
     ],
     "authors": [
         {
-            "name": "alexusmai",
-            "email": "alexusmai@gmail.com",
+            "name": "Boris Diadus",
+            "email": "boris@diadus.net",
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/alexusami/ruslug",
+    "homepage": "https://github.com/diadus/laravel-translit",
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Alexusmai\\Ruslug\\": "src/"
+            "diadus\\Laravel-translit\\": "src/"
         }
     }
 }

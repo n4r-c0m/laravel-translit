@@ -1,6 +1,6 @@
-<?php namespace Alexusmai\Ruslug;
+<?php namespace diadus\Translit;
 
-class Slug{
+class Translit{
 
     /**
      * @param string $title
