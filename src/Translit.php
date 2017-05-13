@@ -1,4 +1,4 @@
-<?php namespace diadus\Translit;
+<?php namespace Diadus\Translit;
 
 class Translit{
 

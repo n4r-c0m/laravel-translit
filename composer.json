@@ -1,5 +1,5 @@
 {
-    "name": "diadus/laravel-translit",
+    "name": "diadus/translit",
     "description": "Laravel 5 Transliteration RU -> ENG",
     "keywords": [
         "laravel 5",
@@ -13,7 +13,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/diadus/laravel-translit",
+    "homepage": "https://github.com/n4r-c0m/translit",
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
