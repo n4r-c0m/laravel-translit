@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "diadus\\Laravel-translit\\": "src/"
+            "diadus\\translit\\": "src/"
         }
     }
 }
